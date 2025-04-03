@@ -8,10 +8,9 @@ This project showcases a colorful 3D graphics rendering using custom shaders and
 
 ## 🛠️ Technologies Used
 
-- OpenGL / WebGL (or your graphics API)
+- OpenGL 
 - GLSL shaders
-- C++ / Python / JavaScript (specify your language)
-- Custom rendering engine
+- Python 
 
 ## 🚀 Features
 
