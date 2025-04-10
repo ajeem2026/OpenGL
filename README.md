@@ -8,6 +8,12 @@ This project showcases a colorful 3D graphics rendering using custom shaders and
 <img src="can.gif" alt="3D Graphics Demo" width="800" height="600">
 
 
+## 📽️ Demo
+
+
+<img src="adv.gif" alt="3D Graphics Demo" width="800" height="600">
+
+
 ## 🛠️ Technologies Used
 
 - OpenGL 
