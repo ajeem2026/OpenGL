@@ -2,7 +2,7 @@
 
 This project showcases a colorful 3D graphics rendering using custom shaders and geometry. The scene includes reflective surfaces, animated objects, and a dynamic camera perspective — all rendered in real-time.
 
-## 📽️ Demo
+## 📽️ Basic Implementation Demo
 
 
 <img src="can.gif" alt="3D Graphics Demo" width="800" height="600">
